@@ -5,11 +5,12 @@
 An Open-Source Anime Community App for Otakus!
 
 ![built-with-androidstudio](https://img.icons8.com/?size=100&id=EgOU93v1DHjU&format=png&color=000000)
-[<img src="https://img.icons8.com/ios-filled/50/FFFFFF/download--v1.png"
+[<img src="https://img.icons8.com/ios-filled/100/FFFFFF/download--v1.png"
      alt="Download Icon"
-     height="50">](https://firebasestorage.googleapis.com/v0/b/watchanime-10858.appspot.com/o/WatchAnime.apk?alt=media&token=3ca16ba8-bd6a-4acf-b710-117045f38b43)
+     height="100">](https://firebasestorage.googleapis.com/v0/b/watchanime-10858.appspot.com/o/WatchAnime.apk?alt=media&token=3ca16ba8-bd6a-4acf-b710-117045f38b43)
 
 [Download App Now](https://firebasestorage.googleapis.com/v0/b/watchanime-10858.appspot.com/o/WatchAnime.apk?alt=media&token=3ca16ba8-bd6a-4acf-b710-117045f38b43)
+
 
 
 ### Don't forget to :star: the repo
