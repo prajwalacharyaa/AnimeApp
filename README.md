@@ -15,15 +15,13 @@ An Open-Source Anime Community App for Otakus!
 
 ### Don't forget to :star: the repo
 
-[![GitHub stars](https://img.shields.io/github/stars/prajwalacharyaa/AnimeApp.svg?style=social&label=Star)](https://github.com//prajwalacharya/AnimeApp) ![GitHub forks](https://img.shields.io/github/forks/prajwalacharyaa/AnimeApp.svg?style=social&label=Forks) ![GitHub followers](https://img.shields.io/github/followers/AnimeApp.svg?style=social&label=Follow)
+[![GitHub stars](https://img.shields.io/github/stars/prajwalacharyaa/AnimeApp.svg?style=social&label=Star)](https://github.com//prajwalacharya/AnimeApp) ![GitHub forks](https://img.shields.io/github/forks/prajwalacharyaa/AnimeApp.svg?style=social&label=Forks) ![GitHub followers](https://img.shields.io/github/followers/prajwalacharyaa.svg?style=social&label=Follow)
 
 ## Download
 
 [<img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png"
      alt="Get it on IzzyDroid"
-     height="100">](https://files.fm/u/je5ghnw3ky)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"
+     height="100">](https://files.fm/u/je5ghnw3ky) [<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"
      alt="Download from GitHub"
      height="60">](https://github.com/prajwalacharyaa/AnimeApp/releases)
 
