@@ -59,8 +59,9 @@ Check it yourself :)
 
 ## Screenshots
 
+
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <img src="https://github.com/prajwalacharyaa/AnimeApp/raw/main/assets/35920575/bc55d814-8dba-4de5-b83e-4c2963d3e94f" width="32%">
+    <img src="![Screenshot_2024-04-20-11-36-48-637_com watchanime](https://github.com/prajwalacharyaa/AnimeApp/assets/35920575/f9765bbe-c9fd-4d44-a7fb-159c04eb5a34)" width="32%">
     <img src="https://github.com/prajwalacharyaa/AnimeApp/raw/main/assets/35920575/5e414d55-1f5c-4b00-a7e6-fd4a0da7a73e" width="32%">
     <img src="https://github.com/prajwalacharyaa/AnimeApp/raw/main/assets/35920575/caa580d7-17e4-42fc-9229-0d3d10bf3b96" width="32%">
 </div>
