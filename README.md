@@ -97,12 +97,6 @@ Use of this software under any "non-free" license is NOT permitted.
 git clone https://github.com/prajwalacharyaa/AnimeApp.git
 ```
 
-3. Run the app with Android Studio or VS Code. Or the command line:
-
-```
-flutter pub get
-flutter run
-```
 
 ## Contribute
 
