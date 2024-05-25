@@ -55,7 +55,7 @@ An Open-Source Anime Community App for Otakus!
 - No Ads
 
 and much more...
-Check it yourself :)
+Check it out yourself pls :)
 
 ## Screenshots
 <img src="https://github.com/prajwalacharyaa/AnimeApp/blob/main/watchanime/res/screenshot/1.jpg?raw=true" width="32%"> <img src="https://github.com/prajwalacharyaa/AnimeApp/blob/main/watchanime/res/screenshot/2.jpg?raw=true" width="32%"> <img src="https://github.com/prajwalacharyaa/AnimeApp/blob/main/watchanime/res/screenshot/3.jpg?raw=true" width="32%"> <img src="https://github.com/prajwalacharyaa/AnimeApp/blob/main/watchanime/res/screenshot/4.jpg?raw=true" width="32%"> <img src="https://github.com/prajwalacharyaa/AnimeApp/blob/main/watchanime/res/screenshot/5.jpg?raw=true" width="32%"> <img src="https://github.com/prajwalacharyaa/AnimeApp/blob/main/watchanime/res/screenshot/6.jpg?raw=true" width="32%">
