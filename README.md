@@ -58,8 +58,12 @@ and much more...
 Check it yourself :)
 
 ## Screenshots
-<img src="https://github.com/prajwalacharyaa/AnimeApp/blob/mainwatchanime/res/screenshot/1.jpg?raw=true" width="32%"> 
-<img src="https://github.com/StarsWarrior/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png?raw=true" width="32%"> <img src="https://github.com/StarsWarrior/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png?raw=true" width="32%"> <img src="https://github.com/StarsWarrior/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png?raw=true" width="32%"> <img src="https://github.com/StarsWarrior/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/5.png?raw=true" width="32%"> <img src="https://github.com/StarsWarrior/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/6.png?raw=true" width="32%">
+<img src="https://github.com/prajwalacharyaa/AnimeApp/blob/main/watchanime/res/screenshot/1.jpg?raw=true" width="32%"> 
+<img src="https://github.com/prajwalacharyaa/AnimeApp/blob/main/watchanime/res/screenshot/2.jpg?raw=true" width="32%"> 
+<img src="https://github.com/prajwalacharyaa/AnimeApp/blob/main/watchanime/res/screenshot/3.jpg?raw=true" width="32%"> 
+<img src="https://github.com/prajwalacharyaa/AnimeApp/blob/main/watchanime/res/screenshot/4.jpg?raw=true" width="32%"> 
+<img src="https://github.com/prajwalacharyaa/AnimeApp/blob/main/watchanime/res/screenshot/5.jpg?raw=true" width="32%"> 
+<img src="https://github.com/prajwalacharyaa/AnimeApp/blob/main/watchanime/res/screenshot/6.jpg?raw=true" width="32%">
 
 ## License
 
