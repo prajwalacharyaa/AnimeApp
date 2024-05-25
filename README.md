@@ -15,7 +15,7 @@ An Open-Source Anime Community App for Otakus!
 
 ### Don't forget to :star: the repo
 
-[![GitHub stars](https://img.shields.io/github/stars/prajwalacharya/AnimeApp.svg?style=social&label=Star)](https://github.com//prajwalacharya/AnimeApp) ![GitHub forks](https://img.shields.io/github/forks/prajwalacharya/AnimeApp.svg?style=social&label=Forks) ![GitHub followers](https://img.shields.io/github/followers/AnimeApp.svg?style=social&label=Follow)
+[![GitHub stars](https://img.shields.io/github/stars/prajwalacharyaa/AnimeApp.svg?style=social&label=Star)](https://github.com//prajwalacharya/AnimeApp) ![GitHub forks](https://img.shields.io/github/forks/prajwalacharyaa/AnimeApp.svg?style=social&label=Forks) ![GitHub followers](https://img.shields.io/github/followers/AnimeApp.svg?style=social&label=Follow)
 
 ## Download
 
@@ -59,7 +59,7 @@ Check it yourself :)
 
 ## Screenshots
 
-<img src="![Screenshot_2024-04-20-11-36-48-637_com watchanime](https://github.com/prajwalacharyaa/AnimeApp/assets/35920575/f96a36a5-5c2e-4220-8151-699b61c11e72)?raw=true" width="32%"> <img src="https://github.com/StarsWarrior/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png?raw=true" width="32%"> <img src="https://github.com/StarsWarrior/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png?raw=true" width="32%"> <img src="https://github.com/StarsWarrior/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png?raw=true" width="32%"> <img src="https://github.com/StarsWarrior/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/5.png?raw=true" width="32%"> <img src="https://github.com/StarsWarrior/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/6.png?raw=true" width="32%">
+<img src="![Screenshot_2024-04-20-11-36-48-637_com watchanime](https://github.com/prajwalacharyaa/AnimeApp/assets/35920575/f96a36a5-5c2e-4220-8151-699b61c11e72)?raw=true"> <img src="https://github.com/StarsWarrior/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png?raw=true" width="32%"> <img src="https://github.com/StarsWarrior/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png?raw=true" width="32%"> <img src="https://github.com/StarsWarrior/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png?raw=true" width="32%"> <img src="https://github.com/StarsWarrior/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/5.png?raw=true" width="32%"> <img src="https://github.com/StarsWarrior/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/6.png?raw=true" width="32%">
 
 ## License
 
