@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "671585479826",
+    "firebase_url": "https://watchanime-10858.firebaseio.com",
+    "project_id": "watchanime-10858",
+    "storage_bucket": "watchanime-10858.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671585479826:android:6082e58620424b2b",
+        "android_client_info": {
+          "package_name": "com.watchanime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671585479826-61ch3b43k5v27t99qp6p1jp758umq3it.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.watchanime",
+            "certificate_hash": "7b30afda26ec44071ff1b7ef66935f09a1bfb8ba"
+          }
+        },
+        {
+          "client_id": "671585479826-4u1es8nmhp006sgdifed0879euqcijon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv2bVCXRzYXN0ymlJhV8E7vUs9-dCJV_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671585479826-4u1es8nmhp006sgdifed0879euqcijon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
