@@ -63,9 +63,9 @@ Check it yourself :)
 ## License
 
 ```
-Copyright © 2021 Wali Ullah Shuvo
+Copyright © 2019 WatchAnime
 
-BlackHole is a free software licensed under GPL v3.0
+WatchAnime is a free software to watch and Read Anime related news.
 It is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
 without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 ```
@@ -87,15 +87,14 @@ how to obtain the original software, should clearly STATE ALL CHANGES made and s
 Use of this software under any "non-free" license is NOT permitted.
 ```
 
-See the [GNU General Public License](https://github.com/StarsWarrior/BlackHole/blob/main/LICENSE) for more details.
 
 ## Building from Source
 
-1. If you don't have Flutter SDK installed, please visit official [Flutter](https://flutter.dev/) site.
+1. If you don't have Android Studio or any other Environment for coding java application installed, please search for sites that provides them.
 2. Fetch latest source code from master branch.
 
 ```
-git clone https://github.com/StarsWarrior/BlackHole.git
+git clone https://github.com/prajwalacharyaa/AnimeApp.git
 ```
 
 3. Run the app with Android Studio or VS Code. Or the command line:
@@ -107,20 +106,20 @@ flutter run
 
 ## Contribute
 
-Contributions are welcome. Please read our [contributing guidelines](https://github.com/StarsWarrior/BlackHole/blob/main/CONTRIBUTING.md) before contributing.
+Contributions are welcome. Please read our [contributing guidelines](https://github.com/prajwalacharyaa/AnimeApp/blob/main/CONTRIBUTING.md) before contributing.
 
 ## Facing any Issue?
 
-Have a look at some [common Issues](https://github.com/StarsWarrior/BlackHole/wiki/Common-Issues) that you might face. If your problem is not there, feel free to open an Issue :)
+Have a look at some [common Issues](https://github.com/prajwalacharyaa/AnimeApp/wiki/Common-Issues) that you might face. If your problem is not there, feel free to open an Issue :)
 
 ## Want to test Beta Versions? Need help??
 
-You can join our [Telegram Channel](https://t.me/blackhole_official) or [Telegram Group](https://t.me/joinchat/fHDC1AWnOhw0ZmI9), if you have any query, or need help with something as well as to get beta updates of the project.
+You can join our instagram community to get beta version access, if you have any query, or need help with something as well as to get beta updates of the project.
 
 ## Liked my work?
 
-<a href="https://www.buymeacoffee.com/waliullah.shuvo" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="https://buymeacoffee.com/prajwalacharya" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 ## What's New
 
-To read full changelog visit the [wiki page](https://github.com/StarsWarrior/BlackHole/wiki/Changelog)
+To read full changelog visit the [wiki page](https://github.com/prajwalacharyaa/AnimeApp/wiki/Changelog)
