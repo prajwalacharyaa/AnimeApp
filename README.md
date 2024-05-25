@@ -58,12 +58,7 @@ and much more...
 Check it yourself :)
 
 ## Screenshots
-<img src="https://github.com/prajwalacharyaa/AnimeApp/blob/main/watchanime/res/screenshot/1.jpg?raw=true" width="32%"> 
-<img src="https://github.com/prajwalacharyaa/AnimeApp/blob/main/watchanime/res/screenshot/2.jpg?raw=true" width="32%"> 
-<img src="https://github.com/prajwalacharyaa/AnimeApp/blob/main/watchanime/res/screenshot/3.jpg?raw=true" width="32%"> 
-<img src="https://github.com/prajwalacharyaa/AnimeApp/blob/main/watchanime/res/screenshot/4.jpg?raw=true" width="32%"> 
-<img src="https://github.com/prajwalacharyaa/AnimeApp/blob/main/watchanime/res/screenshot/5.jpg?raw=true" width="32%"> 
-<img src="https://github.com/prajwalacharyaa/AnimeApp/blob/main/watchanime/res/screenshot/6.jpg?raw=true" width="32%">
+<img src="https://github.com/prajwalacharyaa/AnimeApp/blob/main/watchanime/res/screenshot/1.jpg?raw=true" width="32%"> <img src="https://github.com/prajwalacharyaa/AnimeApp/blob/main/watchanime/res/screenshot/2.jpg?raw=true" width="32%"> <img src="https://github.com/prajwalacharyaa/AnimeApp/blob/main/watchanime/res/screenshot/3.jpg?raw=true" width="32%"> <img src="https://github.com/prajwalacharyaa/AnimeApp/blob/main/watchanime/res/screenshot/4.jpg?raw=true" width="32%"> <img src="https://github.com/prajwalacharyaa/AnimeApp/blob/main/watchanime/res/screenshot/5.jpg?raw=true" width="32%"> <img src="https://github.com/prajwalacharyaa/AnimeApp/blob/main/watchanime/res/screenshot/6.jpg?raw=true" width="32%">
 
 ## License
 
