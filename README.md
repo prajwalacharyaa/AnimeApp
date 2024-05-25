@@ -5,15 +5,16 @@
 An Open-Source Anime Community App for Otakus!
 
 ![built-with-androidstudio](https://img.icons8.com/?size=100&id=EgOU93v1DHjU&format=png&color=000000)
-[![Downloads](https://img.icons8.com/ios-filled/50/000000/download--v1.png)](https://firebasestorage.googleapis.com/v0/b/watchanime-10858.appspot.com/o/WatchAnime.apk?alt=media&token=3ca16ba8-bd6a-4acf-b710-117045f38b43)
+[<img src="https://img.icons8.com/ios-filled/50/FFFFFF/download--v1.png"
+     alt="Download Icon"
+     height="50">](https://firebasestorage.googleapis.com/v0/b/watchanime-10858.appspot.com/o/WatchAnime.apk?alt=media&token=3ca16ba8-bd6a-4acf-b710-117045f38b43)
 
+[Download App Now](https://firebasestorage.googleapis.com/v0/b/watchanime-10858.appspot.com/o/WatchAnime.apk?alt=media&token=3ca16ba8-bd6a-4acf-b710-117045f38b43)
 
 
 ### Don't forget to :star: the repo
 
 [![GitHub stars](https://img.shields.io/github/stars/prajwalacharya/AnimeApp.svg?style=social&label=Star)](https://github.com//prajwalacharya/AnimeApp) ![GitHub forks](https://img.shields.io/github/forks/prajwalacharya/AnimeApp.svg?style=social&label=Forks) ![GitHub followers](https://img.shields.io/github/followers/AnimeApp.svg?style=social&label=Follow)
-
-## Download
 
 ## Download
 
