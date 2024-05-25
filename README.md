@@ -5,7 +5,7 @@
 An Open-Source Anime Community App for Otakus!
 
 [![built-with-androidstudio](https://img.icons8.com/?size=100&id=EgOU93v1DHjU&format=png&color=000000)](https://flutter.dev/](https://developer.android.com/codelabs/build-your-first-android-app#0)) 
-![Downloads]([(https://img.shields.io/github/downloads/StarsWarrior/BlackHole/total)](https://img.icons8.com/?size=100&id=12071&format=png&color=000000)](https://l.instagram.com/?u=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fwatchanime-10858.appspot.com%2Fo%2FWatchAnime.apk%3Falt%3Dmedia%26token%3D3ca16ba8-bd6a-4acf-b710-117045f38b43&e=AT3MI8D6UIBBoAlFxk-hXqvjiG54RXs1K0K5USM5QP0S2T2l3h9zuDnQ6DKKFwxeve3hV603e1YnH4YEZNYNLndujBaAlht91m6ErFN9hX9MUJqdBWG3NnM))
+![Downloads]([https://img.shields.io/github/downloads/StarsWarrior/BlackHole/total](https://img.icons8.com/?size=100&id=12071&format=png&color=000000)](https://l.instagram.com/?u=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fwatchanime-10858.appspot.com%2Fo%2FWatchAnime.apk%3Falt%3Dmedia%26token%3D3ca16ba8-bd6a-4acf-b710-117045f38b43&e=AT3MI8D6UIBBoAlFxk-hXqvjiG54RXs1K0K5USM5QP0S2T2l3h9zuDnQ6DKKFwxeve3hV603e1YnH4YEZNYNLndujBaAlht91m6ErFN9hX9MUJqdBWG3NnM))
 
 
 ### Don't forget to :star: the repo
