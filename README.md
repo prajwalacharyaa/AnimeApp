@@ -4,7 +4,7 @@
 
 An Open-Source Anime Community App for Otakus!
 
-[![built-with-androidstudio](https://img.icons8.com/?size=100&id=EgOU93v1DHjU&format=png&color=000000)]
+![built-with-androidstudio](https://img.icons8.com/?size=100&id=EgOU93v1DHjU&format=png&color=000000)
 [![Downloads](https://img.icons8.com/ios-filled/50/000000/download--v1.png)](https://firebasestorage.googleapis.com/v0/b/watchanime-10858.appspot.com/o/WatchAnime.apk?alt=media&token=3ca16ba8-bd6a-4acf-b710-117045f38b43)
 
 
@@ -15,14 +15,16 @@ An Open-Source Anime Community App for Otakus!
 
 ## Download
 
+## Download
+
 [<img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png"
      alt="Get it on IzzyDroid"
-     height="100">]([https://files.fm/f/mw77r8agx](https://files.fm/u/je5ghnw3ky))
-
+     height="100">](https://files.fm/u/je5ghnw3ky)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"
      alt="Download from GitHub"
      height="60">](https://github.com/prajwalacharyaa/AnimeApp/releases)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 
 ## Translations
