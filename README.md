@@ -1,5 +1,4 @@
-![Repo Banner](![Mobile app download Ad - Made with PosterMyWall](https://github.com/prajwalacharyaa/AnimeApp/assets/35920575/e1d9e060-fbf8-46ad-a847-4ece6f1f7328)
-)
+![Repo Banner](![Mobile app download Ad - Made with PosterMyWall](https://github.com/prajwalacharyaa/AnimeApp/assets/35920575/e1d9e060-fbf8-46ad-a847-4ece6f1f7328))
 
 # WatchAnime
 
