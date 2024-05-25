@@ -58,21 +58,8 @@ and much more...
 Check it yourself :)
 
 ## Screenshots
-
-
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <img src="![Screenshot_2024-04-20-11-36-48-637_com watchanime](https://github.com/prajwalacharyaa/AnimeApp/assets/35920575/f9765bbe-c9fd-4d44-a7fb-159c04eb5a34)" width="32%">
-    <img src="https://github.com/prajwalacharyaa/AnimeApp/raw/main/assets/35920575/5e414d55-1f5c-4b00-a7e6-fd4a0da7a73e" width="32%">
-    <img src="https://github.com/prajwalacharyaa/AnimeApp/raw/main/assets/35920575/caa580d7-17e4-42fc-9229-0d3d10bf3b96" width="32%">
-</div>
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <img src="https://github.com/prajwalacharyaa/AnimeApp/raw/main/assets/35920575/21c1c1ba-19bc-4740-a4cb-59d8da42e74e" width="32%">
-    <img src="https://github.com/prajwalacharyaa/AnimeApp/raw/main/assets/35920575/90151893-bd0d-4ecc-8978-687d9c1b9dc3" width="32%">
-    <img src="https://github.com/prajwalacharyaa/AnimeApp/raw/main/assets/35920575/a2ed3865-078b-4cee-9f74-060fa28adb29" width="32%">
-</div>
-
-
-<img src="![Screenshot_2024-04-20-11-36-48-637_com watchanime](https://github.com/prajwalacharyaa/AnimeApp/assets/35920575/f96a36a5-5c2e-4220-8151-699b61c11e72)?raw=true"> <img src="https://github.com/StarsWarrior/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png?raw=true" width="32%"> <img src="https://github.com/StarsWarrior/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png?raw=true" width="32%"> <img src="https://github.com/StarsWarrior/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png?raw=true" width="32%"> <img src="https://github.com/StarsWarrior/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/5.png?raw=true" width="32%"> <img src="https://github.com/StarsWarrior/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/6.png?raw=true" width="32%">
+<img src="https://github.com/prajwalacharyaa/AnimeApp/watchanime/res/screenshot/1.jpg?raw=true" width="32%"> 
+<img src="https://github.com/StarsWarrior/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png?raw=true" width="32%"> <img src="https://github.com/StarsWarrior/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png?raw=true" width="32%"> <img src="https://github.com/StarsWarrior/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png?raw=true" width="32%"> <img src="https://github.com/StarsWarrior/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/5.png?raw=true" width="32%"> <img src="https://github.com/StarsWarrior/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/6.png?raw=true" width="32%">
 
 ## License
 
