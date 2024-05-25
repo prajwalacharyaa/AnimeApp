@@ -1,0 +1,140 @@
+![Mobile app download Ad - Made with PosterMyWall](https://github.com/prajwalacharyaa/AnimeApp/assets/35920575/e1d9e060-fbf8-46ad-a847-4ece6f1f7328)
+
+# WatchAnime
+
+An Open-Source Anime Community App for Otakus!
+
+![built-with-androidstudio](https://img.icons8.com/?size=100&id=EgOU93v1DHjU&format=png&color=000000)
+[<img src="https://img.icons8.com/ios-filled/100/FFFFFF/download--v1.png"
+     alt="Download Icon"
+     height="100">](https://firebasestorage.googleapis.com/v0/b/watchanime-10858.appspot.com/o/WatchAnime.apk?alt=media&token=3ca16ba8-bd6a-4acf-b710-117045f38b43)
+
+[Download App Now](https://firebasestorage.googleapis.com/v0/b/watchanime-10858.appspot.com/o/WatchAnime.apk?alt=media&token=3ca16ba8-bd6a-4acf-b710-117045f38b43)
+
+
+
+### Don't forget to :star: the repo
+
+[![GitHub stars](https://img.shields.io/github/stars/prajwalacharyaa/AnimeApp.svg?style=social&label=Star)](https://github.com//prajwalacharya/AnimeApp) ![GitHub forks](https://img.shields.io/github/forks/prajwalacharyaa/AnimeApp.svg?style=social&label=Forks) ![GitHub followers](https://img.shields.io/github/followers/AnimeApp.svg?style=social&label=Follow)
+
+## Download
+
+[<img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png"
+     alt="Get it on IzzyDroid"
+     height="100">](https://files.fm/u/je5ghnw3ky)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"
+     alt="Download from GitHub"
+     height="60">](https://github.com/prajwalacharyaa/AnimeApp/releases)
+
+
+
+## Translations
+
+- [Spanish :es:](/README.ES.md)
+- [Russian :ru:](/README.RU.md)
+- [French :fr:](/README.FR.md)
+- [Portuguese :brazil:](/README.PT.md)
+
+## Features
+
+- Anime Streaming: Watch anime from different streaming sites within the app.
+- News Section: Stay updated with the latest news and announcements in the anime industry.
+- Firebase Authentication: Securely login to your account to personalize your experience.
+- Dark Mode: Enjoy watching anime in a comfortable dark theme.
+- Bookmarking: Bookmark site links after watching anime for easy access later.
+- YouTube API Integration: Watch top and trending anime-related content from YouTube within the app.
+- Updates Section: Watch update videos and read comments to stay informed about your favorite anime.
+- Series Section: Browse anime by selecting series from the drawer for easy access
+- Trending Anime
+- Add Anime Links to Bookmarks
+- Share News with Friends
+- Update Check
+- Cache support
+- No Subscription
+- No Ads
+
+and much more...
+Check it yourself :)
+
+## Screenshots
+
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <img src="![Screenshot_2024-04-20-11-36-48-637_com watchanime](https://github.com/prajwalacharyaa/AnimeApp/assets/35920575/f9765bbe-c9fd-4d44-a7fb-159c04eb5a34)" width="32%">
+    <img src="https://github.com/prajwalacharyaa/AnimeApp/raw/main/assets/35920575/5e414d55-1f5c-4b00-a7e6-fd4a0da7a73e" width="32%">
+    <img src="https://github.com/prajwalacharyaa/AnimeApp/raw/main/assets/35920575/caa580d7-17e4-42fc-9229-0d3d10bf3b96" width="32%">
+</div>
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <img src="https://github.com/prajwalacharyaa/AnimeApp/raw/main/assets/35920575/21c1c1ba-19bc-4740-a4cb-59d8da42e74e" width="32%">
+    <img src="https://github.com/prajwalacharyaa/AnimeApp/raw/main/assets/35920575/90151893-bd0d-4ecc-8978-687d9c1b9dc3" width="32%">
+    <img src="https://github.com/prajwalacharyaa/AnimeApp/raw/main/assets/35920575/a2ed3865-078b-4cee-9f74-060fa28adb29" width="32%">
+</div>
+
+
+<img src="![Screenshot_2024-04-20-11-36-48-637_com watchanime](https://github.com/prajwalacharyaa/AnimeApp/assets/35920575/f96a36a5-5c2e-4220-8151-699b61c11e72)?raw=true"> <img src="https://github.com/StarsWarrior/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png?raw=true" width="32%"> <img src="https://github.com/StarsWarrior/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png?raw=true" width="32%"> <img src="https://github.com/StarsWarrior/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png?raw=true" width="32%"> <img src="https://github.com/StarsWarrior/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/5.png?raw=true" width="32%"> <img src="https://github.com/StarsWarrior/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/6.png?raw=true" width="32%">
+
+## License
+
+```
+Copyright © 2021 Wali Ullah Shuvo
+
+BlackHole is a free software licensed under GPL v3.0
+It is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+```
+
+```
+Being Open Source doesn't mean you can just make a copy of the app and upload it on playstore or sell
+a closed source copy of the same.
+Read the following carefully:
+1. Any copy of a software under GPL must be under same license. So you can't upload the app on a closed source
+  app repository like PlayStore/AppStore without distributing the source code.
+2. You can't sell any copied/modified version of the app under any "non-free" license.
+   You must provide the copy with the original software or with instructions on how to obtain original software,
+   should clearly state all changes, should clearly disclose full source code, should include same license
+   and all copyrights should be retained.
+
+In simple words, You can ONLY use the source code of this app for `Open Source` Project under `GPL v3.0` or later
+with all your source code CLEARLY DISCLOSED on any code hosting platform like GitHub, with clear INSTRUCTIONS on
+how to obtain the original software, should clearly STATE ALL CHANGES made and should RETAIN all copyrights.
+Use of this software under any "non-free" license is NOT permitted.
+```
+
+See the [GNU General Public License](https://github.com/StarsWarrior/BlackHole/blob/main/LICENSE) for more details.
+
+## Building from Source
+
+1. If you don't have Flutter SDK installed, please visit official [Flutter](https://flutter.dev/) site.
+2. Fetch latest source code from master branch.
+
+```
+git clone https://github.com/StarsWarrior/BlackHole.git
+```
+
+3. Run the app with Android Studio or VS Code. Or the command line:
+
+```
+flutter pub get
+flutter run
+```
+
+## Contribute
+
+Contributions are welcome. Please read our [contributing guidelines](https://github.com/StarsWarrior/BlackHole/blob/main/CONTRIBUTING.md) before contributing.
+
+## Facing any Issue?
+
+Have a look at some [common Issues](https://github.com/StarsWarrior/BlackHole/wiki/Common-Issues) that you might face. If your problem is not there, feel free to open an Issue :)
+
+## Want to test Beta Versions? Need help??
+
+You can join our [Telegram Channel](https://t.me/blackhole_official) or [Telegram Group](https://t.me/joinchat/fHDC1AWnOhw0ZmI9), if you have any query, or need help with something as well as to get beta updates of the project.
+
+## Liked my work?
+
+<a href="https://www.buymeacoffee.com/waliullah.shuvo" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+## What's New
+
+To read full changelog visit the [wiki page](https://github.com/StarsWarrior/BlackHole/wiki/Changelog)
